@@ -1,4 +1,4 @@
-# Agent SDK Development Plugin
+# Agent SDK Development Plugin (Opus)
 
 A comprehensive plugin for creating and verifying Claude Agent SDK applications in Python and TypeScript.
 

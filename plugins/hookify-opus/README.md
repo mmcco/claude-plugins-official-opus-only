@@ -1,4 +1,4 @@
-# Hookify Plugin
+# Hookify Plugin (Opus)
 
 Easily create custom hooks to prevent unwanted behaviors by analyzing conversation patterns or from explicit instructions.
 

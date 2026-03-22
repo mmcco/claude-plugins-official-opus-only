@@ -1,4 +1,4 @@
-# PR Review Toolkit
+# PR Review Toolkit (Opus)
 
 A comprehensive collection of specialized agents for thorough pull request review, covering code comments, test coverage, error handling, type design, code quality, and code simplification.
 

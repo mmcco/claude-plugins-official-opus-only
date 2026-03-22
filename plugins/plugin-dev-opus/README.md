@@ -1,4 +1,4 @@
-# Plugin Development Toolkit
+# Plugin Development Toolkit (Opus)
 
 A comprehensive toolkit for developing Claude Code plugins with expert guidance on hooks, MCP integration, plugin structure, and marketplace publishing.
 
